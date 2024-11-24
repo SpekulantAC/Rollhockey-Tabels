@@ -14,3 +14,6 @@
 |  8 |   VfL Hüls |   2 |   0 |   0 |   2 |   1:7 |   -6 |   0 |  
 |  8 |   SGR Darmstadt |   2 |   0 |   0 |   2 |   3:9 |   -6 |   0 |  
 |  10 |   SG Recklinghausen/Iserlohn |   2 |   0 |   0 |   2 |   4:23 |   -19 |   0 |  
+
+
+Letzte Aktualisierung: 2024-11-24 12:50:28

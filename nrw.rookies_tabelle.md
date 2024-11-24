@@ -10,3 +10,6 @@
 |  4 |   Hülser SV Krefeld |   2 |   0 |   1 |   1 |   4:6 |   -2 |   1 |  
 |  5 |   RSC Cronenberg |   2 |   0 |   1 |   1 |   3:9 |   -6 |   1 |  
 |  6 |   RHC Recklinghausen |   2 |   0 |   0 |   2 |   2:15 |   -13 |   0 |  
+
+
+Letzte Aktualisierung: 2024-11-24 12:50:28

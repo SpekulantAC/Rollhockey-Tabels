@@ -9,3 +9,6 @@
 |  3 |   SC Bison Calenberg |   2 |   1 |   0 |   1 |   9:12 |   -3 |   3 |  
 |  4 |   ERSC Schwerte |   1 |   0 |   0 |   1 |   5:6 |   -1 |   0 |  
 |  5 |   RSG Berlin |   2 |   0 |   0 |   2 |   8:19 |   -11 |   0 |  
+
+
+Letzte Aktualisierung: 2024-11-24 12:50:28

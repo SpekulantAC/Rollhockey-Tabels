@@ -10,3 +10,6 @@
 |  4 |   IGR Remscheid |   3 |   1 |   0 |   2 |   12:8 |   4 |   3 |  
 |  5 |   SC Moskitos Wuppertal |   1 |   0 |   0 |   1 |   3:8 |   -5 |   0 |  
 |  6 |   SG Schwerte/Hüls |   3 |   0 |   0 |   3 |   5:31 |   -26 |   0 |  
+
+
+Letzte Aktualisierung: 2024-11-24 12:50:28

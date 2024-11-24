@@ -8,3 +8,6 @@
 |  2 |   RSC Gera |   2 |   1 |   0 |   1 |   6:3 |   3 |   3 |  
 |  3 |   Project Team Holland |   2 |   1 |   0 |   1 |   3:10 |   -7 |   3 |  
 |  4 |   SG Hüls / Schwerte |   2 |   0 |   0 |   2 |   1:7 |   -6 |   0 |  
+
+
+Letzte Aktualisierung: 2024-11-24 12:50:28

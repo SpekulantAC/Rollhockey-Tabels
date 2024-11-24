@@ -14,3 +14,6 @@
 |  8 |   RHC Recklinghausen II |   4 |   0 |   1 |   3 |   12:23 |   -11 |   1 |  
 |  9 |   SK Germania Herringen II |   2 |   0 |   0 |   2 |   5:10 |   -5 |   0 |  
 |  10 |   ERG Iserlohn |   2 |   0 |   0 |   2 |   7:14 |   -7 |   0 |  
+
+
+Letzte Aktualisierung: 2024-11-24 12:50:28

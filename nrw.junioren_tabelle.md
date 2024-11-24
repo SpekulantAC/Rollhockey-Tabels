@@ -10,3 +10,6 @@
 |  4 |   RSC Cronenberg I |   2 |   1 |   0 |   1 |   10:12 |   -2 |   3 |  
 |  5 |   SGR Darmstadt |   2 |   0 |   0 |   2 |   2:15 |   -13 |   0 |  
 |  6 |   IGR Remscheid II |   2 |   0 |   0 |   2 |   1:18 |   -17 |   0 |  
+
+
+Letzte Aktualisierung: 2024-11-24 12:50:28

@@ -11,3 +11,6 @@
 |  5 |   HSV Krefeld |   1 |   0 |   0 |   1 |   4:6 |   -2 |   0 |  
 |  6 |   SG Walsum / Mönchengladbach |   1 |   0 |   0 |   1 |   3:8 |   -5 |   0 |  
 |  7 |   SG Hüls / Recklinghausen |   3 |   0 |   0 |   3 |   0:29 |   -29 |   0 |  
+
+
+Letzte Aktualisierung: 2024-11-24 12:50:28

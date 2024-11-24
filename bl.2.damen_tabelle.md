@@ -10,3 +10,6 @@
 |  4 |   SG Chemnitz / Darmstadt |   2 |   1 |   0 |   1 |   9:4 |   5 |   3 |  
 |  5 |   RHC Aufbau Böhlitz-Ehrenberg |   3 |   0 |   0 |   3 |   7:31 |   -24 |   0 |  
 |  6 |   RSC Harz |   3 |   0 |   0 |   3 |   3:48 |   -45 |   0 |  
+
+
+Letzte Aktualisierung: 2024-11-24 12:50:28

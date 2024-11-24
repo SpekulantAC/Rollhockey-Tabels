@@ -10,3 +10,6 @@
 |  4 |   RSC Gera |   2 |   1 |   0 |   1 |   6:7 |   -1 |   3 |  
 |  5 |   SGR Darmstadt |   2 |   0 |   0 |   2 |   1:10 |   -9 |   0 |  
 |  6 |   Project Team Holland |   2 |   0 |   0 |   2 |   0:11 |   -11 |   0 |  
+
+
+Letzte Aktualisierung: 2024-11-24 12:50:28
