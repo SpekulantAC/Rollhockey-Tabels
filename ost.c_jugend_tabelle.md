@@ -10,4 +10,4 @@
 |  4 |   RSC Gera III |   6 |   0 |   0 |   6 |   17:75 |   -58 |   0 |  
 
 
-Letzte Aktualisierung: 2024-11-24 20:08:25
+Letzte Aktualisierung: 2024-11-25 15:51:53
