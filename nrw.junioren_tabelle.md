@@ -12,4 +12,4 @@
 |  6 |   IGR Remscheid II |   2 |   0 |   0 |   2 |   1:18 |   -17 |   0 |  
 
 
-Letzte Aktualisierung: 2024-11-25 15:59:48
+Letzte Aktualisierung: 2024-11-28 15:29:52
