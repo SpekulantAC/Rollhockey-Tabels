@@ -17,4 +17,4 @@
 |  11 |   SG Recklinghausen/Iserlohn |   2 |   0 |   0 |   2 |   4:23 |   -19 |   0 |  
 
 
-Letzte Aktualisierung: 2024-11-28 15:30:43
+Letzte Aktualisierung: 2024-11-30 13:06:40

@@ -12,4 +12,4 @@
 |  6 |   RHC Recklinghausen |   2 |   0 |   0 |   2 |   2:15 |   -13 |   0 |  
 
 
-Letzte Aktualisierung: 2024-11-28 15:31:31
+Letzte Aktualisierung: 2024-11-30 13:07:28
