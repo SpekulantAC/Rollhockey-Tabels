@@ -13,4 +13,4 @@
 |  7 |   SG Hüls / Recklinghausen |   3 |   0 |   0 |   3 |   0:29 |   -29 |   0 |  
 
 
-Letzte Aktualisierung: 2024-11-30 13:06:59
+Letzte Aktualisierung: 2024-12-01 09:52:21

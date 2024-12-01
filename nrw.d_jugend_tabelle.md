@@ -12,4 +12,4 @@
 |  6 |   RSC Cronenberg |   2 |   0 |   0 |   2 |   2:8 |   -6 |   0 |  
 
 
-Letzte Aktualisierung: 2024-11-30 13:07:15
+Letzte Aktualisierung: 2024-12-01 09:52:36
