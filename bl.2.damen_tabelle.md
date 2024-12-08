@@ -12,4 +12,4 @@
 |  6 |   RSC Harz |   3 |   0 |   0 |   3 |   3:48 |   -45 |   0 |  
 
 
-Letzte Aktualisierung: 2024-12-08 14:31:05
+Letzte Aktualisierung: 2024-12-08 17:40:09
