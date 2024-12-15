@@ -7,11 +7,11 @@
 |  1 |   RSC Cronenberg |   6 |   6 |   0 |   0 |   38:14 |   24 |   16 |  
 |  2 |   TuS Düsseldorf-Nord |   6 |   5 |   0 |   1 |   39:16 |   23 |   16 |  
 |  3 |   SK Germania Herringen |   5 |   4 |   0 |   1 |   43:13 |   30 |   12 |  
-|  4 |   RESG Walsum |   6 |   3 |   0 |   3 |   24:25 |   -1 |   9 |  
-|  5 |   Hülser SV Krefeld |   6 |   2 |   0 |   4 |   19:27 |   -8 |   7 |  
-|  6 |   IGR Remscheid |   6 |   2 |   0 |   4 |   23:33 |   -10 |   6 |  
+|  4 |   Hülser SV Krefeld |   7 |   3 |   0 |   4 |   23:30 |   -7 |   10 |  
+|  5 |   RESG Walsum |   6 |   3 |   0 |   3 |   24:25 |   -1 |   9 |  
+|  6 |   IGR Remscheid |   7 |   2 |   0 |   5 |   26:37 |   -11 |   6 |  
 |  7 |   RHC Recklinghausen |   4 |   1 |   0 |   3 |   14:24 |   -10 |   2 |  
 |  8 |   SGR Darmstadt |   7 |   0 |   0 |   7 |   9:57 |   -48 |   1 |  
 
 
-Letzte Aktualisierung: 2024-12-13 13:27:10
+Letzte Aktualisierung: 2024-12-15 14:04:32

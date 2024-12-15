@@ -4,12 +4,13 @@
 
 | Platz |  Mannschaft |  Spiele |  Siege |  Unentschieden |  Niederlagen |  Tore |  Differenz |  Punkte | 
 | --- |  --- |  --- |  --- |  --- |  --- |  --- |  --- |  --- |  
-|  1 |   IGR Remscheid I |   2 |   2 |   0 |   0 |   21:0 |   21 |   6 |  
-|  2 |   TuS Düsseldorf-Nord |   2 |   2 |   0 |   0 |   11:2 |   9 |   6 |  
-|  3 |   RSC Cronenberg II |   2 |   1 |   0 |   1 |   9:7 |   2 |   3 |  
-|  4 |   RSC Cronenberg I |   2 |   1 |   0 |   1 |   10:12 |   -2 |   3 |  
-|  5 |   SGR Darmstadt |   2 |   0 |   0 |   2 |   2:15 |   -13 |   0 |  
-|  6 |   IGR Remscheid II |   2 |   0 |   0 |   2 |   1:18 |   -17 |   0 |  
+|  1 |   IGR Remscheid I |   4 |   4 |   0 |   0 |   44:1 |   43 |   12 |  
+|  2 |   RSC Cronenberg I |   4 |   3 |   0 |   1 |   24:16 |   8 |   9 |  
+|  3 |   TuS Düsseldorf-Nord |   2 |   2 |   0 |   0 |   11:2 |   9 |   6 |  
+|  4 |   SK Germania Herringen |   2 |   1 |   0 |   1 |   10:4 |   6 |   3 |  
+|  5 |   RSC Cronenberg II |   4 |   1 |   0 |   3 |   10:25 |   -15 |   3 |  
+|  6 |   SGR Darmstadt |   4 |   1 |   0 |   3 |   10:28 |   -18 |   3 |  
+|  7 |   IGR Remscheid II |   4 |   0 |   0 |   4 |   2:35 |   -33 |   0 |  
 
 
-Letzte Aktualisierung: 2024-12-13 13:24:39
+Letzte Aktualisierung: 2024-12-15 14:02:03
