@@ -14,4 +14,4 @@
 |  8 |   VfL Hüls |   2 |   0 |   0 |   2 |   0:42 |   -42 |   0 |  
 
 
-Letzte Aktualisierung: 2024-12-15 14:03:26
+Letzte Aktualisierung: 2024-12-15 14:12:47
