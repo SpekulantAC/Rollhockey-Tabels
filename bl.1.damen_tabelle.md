@@ -12,4 +12,4 @@
 |  6 |   SG Schwerte/Hüls |   4 |   0 |   0 |   4 |   6:43 |   -37 |   0 |  
 
 
-Letzte Aktualisierung: 2024-12-18 15:44:23
+Letzte Aktualisierung: 2024-12-18 16:18:53
