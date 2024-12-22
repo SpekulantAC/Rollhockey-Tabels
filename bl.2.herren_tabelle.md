@@ -4,11 +4,11 @@
 
 | Platz |  Mannschaft |  Spiele |  Siege |  Unentschieden |  Niederlagen |  Tore |  Differenz |  Punkte | 
 | --- |  --- |  --- |  --- |  --- |  --- |  --- |  --- |  --- |  
-|  1 |   SG sächsische Löwen |   3 |   3 |   0 |   0 |   16:10 |   6 |   9 |  
-|  2 |   SC Bison Calenberg |   3 |   2 |   0 |   1 |   21:18 |   3 |   6 |  
-|  3 |   RSC Gera |   2 |   1 |   0 |   1 |   15:6 |   9 |   3 |  
-|  4 |   ERSC Schwerte |   2 |   0 |   0 |   2 |   11:18 |   -7 |   0 |  
-|  5 |   RSG Berlin |   2 |   0 |   0 |   2 |   8:19 |   -11 |   0 |  
+|  1 |   SG sächsische Löwen |   5 |   5 |   0 |   0 |   36:10 |   26 |   15 |  
+|  2 |   SC Bison Calenberg |   4 |   3 |   0 |   1 |   31:18 |   13 |   9 |  
+|  3 |   RSC Gera |   3 |   2 |   0 |   1 |   25:6 |   19 |   6 |  
+|  4 |   ERSC Schwerte |   4 |   2 |   0 |   2 |   31:18 |   13 |   6 |  
+|  5 |   RSG Berlin |   8 |   0 |   0 |   8 |   8:79 |   -71 |   0 |  
 
 
-Letzte Aktualisierung: 2024-12-19 12:36:16
+Letzte Aktualisierung: 2024-12-22 14:44:46
