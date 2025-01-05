@@ -9,4 +9,4 @@
 |  3 |   RSC Chemnitz |   2 |   0 |   0 |   2 |   2:13 |   -11 |   0 |  
 
 
-Letzte Aktualisierung: 2025-01-05 15:13:38
+Letzte Aktualisierung: 2025-01-05 19:28:28
