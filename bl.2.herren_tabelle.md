@@ -11,4 +11,4 @@
 |  5 |   RSG Berlin |   8 |   0 |   0 |   8 |   8:79 |   -71 |   0 |  
 
 
-Letzte Aktualisierung: 2025-01-05 19:29:38
+Letzte Aktualisierung: 2025-01-10 12:07:31
