@@ -14,4 +14,4 @@
 |  8 |   SGR Darmstadt |   7 |   0 |   0 |   7 |   9:57 |   -48 |   1 |  
 
 
-Letzte Aktualisierung: 2025-01-10 12:06:59
+Letzte Aktualisierung: 2025-01-11 15:11:25
