@@ -4,12 +4,12 @@
 
 | Platz |  Mannschaft |  Spiele |  Siege |  Unentschieden |  Niederlagen |  Tore |  Differenz |  Punkte | 
 | --- |  --- |  --- |  --- |  --- |  --- |  --- |  --- |  --- |  
-|  1 |   RSC Cronenberg |   5 |   5 |   0 |   0 |   39:10 |   29 |   15 |  
-|  2 |   TuS Düsseldorf-Nord |   5 |   3 |   1 |   1 |   26:9 |   17 |   10 |  
-|  3 |   Hülser SV Krefeld |   4 |   2 |   1 |   1 |   16:12 |   4 |   7 |  
-|  4 |   RSC Gera |   4 |   1 |   0 |   3 |   8:18 |   -10 |   3 |  
-|  5 |   Project Team Holland |   4 |   1 |   0 |   3 |   5:21 |   -16 |   3 |  
-|  6 |   SGR Darmstadt |   4 |   0 |   0 |   4 |   2:26 |   -24 |   0 |  
+|  1 |   RSC Cronenberg |   6 |   6 |   0 |   0 |   44:10 |   34 |   18 |  
+|  2 |   TuS Düsseldorf-Nord |   6 |   4 |   1 |   1 |   33:14 |   19 |   13 |  
+|  3 |   Hülser SV Krefeld |   6 |   4 |   1 |   1 |   24:15 |   9 |   13 |  
+|  4 |   RSC Gera |   6 |   2 |   0 |   4 |   16:23 |   -7 |   6 |  
+|  5 |   Project Team Holland |   6 |   1 |   0 |   5 |   6:33 |   -27 |   3 |  
+|  6 |   SGR Darmstadt |   6 |   0 |   0 |   6 |   9:37 |   -28 |   0 |  
 
 
-Letzte Aktualisierung: 2025-01-12 11:45:33
+Letzte Aktualisierung: 2025-01-13 16:40:29
