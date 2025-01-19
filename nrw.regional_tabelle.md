@@ -16,4 +16,4 @@
 |  10 |   ERG Iserlohn |   5 |   0 |   0 |   5 |   16:35 |   -19 |   0 |  
 
 
-Letzte Aktualisierung: 2025-01-19 16:21:01
+Letzte Aktualisierung: 2025-01-19 16:55:40
