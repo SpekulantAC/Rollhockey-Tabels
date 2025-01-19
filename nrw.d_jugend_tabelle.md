@@ -4,14 +4,14 @@
 
 | Platz |  Mannschaft |  Spiele |  Siege |  Unentschieden |  Niederlagen |  Tore |  Differenz |  Punkte | 
 | --- |  --- |  --- |  --- |  --- |  --- |  --- |  --- |  --- |  
-|  1 |   SK Germania Herringen |   3 |   3 |   0 |   0 |   42:2 |   40 |   9 |  
-|  2 |   TuS Düsseldorf-Nord |   3 |   3 |   0 |   0 |   19:2 |   17 |   9 |  
-|  3 |   RSC Cronenberg |   4 |   2 |   0 |   2 |   9:11 |   -2 |   6 |  
-|  4 |   RHC Recklinghausen |   2 |   1 |   1 |   0 |   11:5 |   6 |   4 |  
-|  5 |   IGR Blue Panthers |   3 |   1 |   1 |   1 |   7:6 |   1 |   4 |  
-|  6 |   Hülser SV Krefeld |   4 |   1 |   0 |   3 |   5:15 |   -10 |   3 |  
-|  7 |   IGR White Tigers |   3 |   0 |   0 |   3 |   5:15 |   -10 |   0 |  
-|  8 |   VfL Hüls |   2 |   0 |   0 |   2 |   0:42 |   -42 |   0 |  
+|  1 |   SK Germania Herringen |   5 |   5 |   0 |   0 |   54:4 |   50 |   15 |  
+|  2 |   TuS Düsseldorf-Nord |   5 |   4 |   0 |   1 |   28:8 |   20 |   12 |  
+|  3 |   RHC Recklinghausen |   4 |   3 |   1 |   0 |   27:5 |   22 |   10 |  
+|  4 |   RSC Cronenberg |   6 |   3 |   1 |   2 |   21:12 |   9 |   10 |  
+|  5 |   IGR Blue Panthers |   5 |   2 |   1 |   2 |   13:16 |   -3 |   7 |  
+|  6 |   Hülser SV Krefeld |   6 |   1 |   1 |   4 |   6:21 |   -15 |   4 |  
+|  7 |   IGR White Tigers |   5 |   0 |   0 |   5 |   7:26 |   -19 |   0 |  
+|  8 |   VfL Hüls |   4 |   0 |   0 |   4 |   0:64 |   -64 |   0 |  
 
 
-Letzte Aktualisierung: 2025-01-15 13:03:00
+Letzte Aktualisierung: 2025-01-19 16:22:59
