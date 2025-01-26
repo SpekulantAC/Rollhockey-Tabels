@@ -4,10 +4,10 @@
 
 | Platz |  Mannschaft |  Spiele |  Siege |  Unentschieden |  Niederlagen |  Tore |  Differenz |  Punkte | 
 | --- |  --- |  --- |  --- |  --- |  --- |  --- |  --- |  --- |  
-|  1 |   RSC Gera |   4 |   3 |   0 |   1 |   29:10 |   19 |   9 |  
-|  2 |   TuS Düsseldorf-Nord |   4 |   3 |   0 |   1 |   23:7 |   16 |   9 |  
-|  3 |   Project Team Holland |   4 |   2 |   0 |   2 |   15:32 |   -17 |   6 |  
-|  4 |   SG Hüls / Schwerte |   4 |   0 |   0 |   4 |   5:23 |   -18 |   0 |  
+|  1 |   TuS Düsseldorf-Nord |   6 |   4 |   0 |   2 |   30:10 |   20 |   12 |  
+|  2 |   Project Team Holland |   6 |   3 |   1 |   2 |   23:38 |   -15 |   10 |  
+|  3 |   RSC Gera |   4 |   3 |   0 |   1 |   29:10 |   19 |   9 |  
+|  4 |   SG Hüls / Schwerte |   6 |   0 |   1 |   5 |   10:34 |   -24 |   1 |  
 
 
-Letzte Aktualisierung: 2025-01-25 19:40:55
+Letzte Aktualisierung: 2025-01-26 13:19:26

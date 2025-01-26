@@ -4,12 +4,12 @@
 
 | Platz |  Mannschaft |  Spiele |  Siege |  Unentschieden |  Niederlagen |  Tore |  Differenz |  Punkte | 
 | --- |  --- |  --- |  --- |  --- |  --- |  --- |  --- |  --- |  
-|  1 |   IGR Remscheid |   6 |   6 |   0 |   0 |   43:5 |   38 |   18 |  
-|  2 |   SK Germania Herringen |   6 |   4 |   0 |   2 |   28:17 |   11 |   12 |  
-|  3 |   Hülser SV Krefeld |   5 |   2 |   1 |   2 |   12:11 |   1 |   7 |  
-|  4 |   RSC Cronenberg |   6 |   2 |   1 |   3 |   16:17 |   -1 |   7 |  
-|  5 |   TuS Düsseldorf-Nord |   6 |   2 |   0 |   4 |   22:30 |   -8 |   6 |  
-|  6 |   RHC Recklinghausen |   5 |   0 |   0 |   5 |   2:43 |   -41 |   0 |  
+|  1 |   IGR Remscheid |   7 |   7 |   0 |   0 |   47:6 |   41 |   21 |  
+|  2 |   SK Germania Herringen |   7 |   5 |   0 |   2 |   34:17 |   17 |   15 |  
+|  3 |   TuS Düsseldorf-Nord |   7 |   3 |   0 |   4 |   27:34 |   -7 |   9 |  
+|  4 |   Hülser SV Krefeld |   6 |   2 |   1 |   3 |   13:15 |   -2 |   7 |  
+|  4 |   RSC Cronenberg |   7 |   2 |   1 |   4 |   20:22 |   -2 |   7 |  
+|  6 |   RHC Recklinghausen |   6 |   0 |   0 |   6 |   2:49 |   -47 |   0 |  
 
 
-Letzte Aktualisierung: 2025-01-25 19:42:13
+Letzte Aktualisierung: 2025-01-26 13:20:44
